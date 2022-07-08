@@ -6,6 +6,11 @@
     "engines": {
         "vscode": "^1.69.0"
     },
+    "publisher": "MarsCreative",
+    "repository": {
+        "url": "https://github.com/toddwalden/vscode-color-theme.git",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
